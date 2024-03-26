@@ -1,0 +1,363 @@
+{
+	"easycom": {
+		"^u-(.*)": "uview-ui/components/u-$1/u-$1.vue"
+	},
+	"pages": [
+		{
+			"path": "pages/index/index",
+			"style": {
+				"titleNView" : false
+			}
+		},
+		{
+            "path" : "pages/cjkb/cjkb",
+            "style" : {
+				"titleNView" : false
+			}
+        },
+		{
+		    "path" : "pages/FunSele/FunSele",
+		    "style" : {
+				"titleNView" : false,
+				"backgroundColor": "#FFFFFF"
+			}
+		}
+        ,{
+            "path" : "pages/index/main/main",
+            "style" : {"titleNView" : false}
+        }
+        ,{
+            "path" : "pages/index/main/sgpc/sgpc",
+            "style" : {"titleNView" : false}
+        }
+        ,{
+            "path" : "pages/nhkb/nhkb",
+            "style" : {"titleNView" : false}
+        }
+        ,{
+            "path" : "pages/hdkb/hdkb",
+             "style" : {"titleNView" : false}
+        }
+        ,{
+            "path" : "pages/index/main/cxkb/cxkb",
+            "style" : {"titleNView" : false}
+        }
+        ,{
+            "path" : "pages/index/main/yhc/yhc",
+            "style" : {"titleNView" : false}
+        }
+        ,{
+            "path" : "pages/index/main/ycsj/ycsj",
+            "style" : {"titleNView" : false}
+        }
+        ,{
+            "path" : "pages/index/main/zzkb/zzkb",
+            "style" : {"titleNView" : false}
+        }
+        ,{
+            "path" : "pages/gdjd/gdjd",
+           "style" : {"titleNView" : false}
+        }
+        ,{
+            "path" : "pages/index/main/zsy/zsy",
+           "style" : {"titleNView" : false}
+        }
+        ,{
+            "path" : "pages/index/main/xskb/xskb",
+             "style" : {"titleNView" : false}
+        }
+        ,{
+            "path" : "pages/index/main/zsy/jt/jt",
+             "style" : {"titleNView" : false}
+        }
+        ,{
+            "path" : "pages/fhzl-bzkb/fhzl-bzkb",
+            "style" : {"titleNView" : false}
+        }
+        ,{
+            "path" : "pages/index/main/esite/rsckb",
+           "style" : {"titleNView" : false}
+        }
+        ,{
+            "path" : "pages/index/main/esite/pckb",
+             "style" : {"titleNView" : false}
+        }
+        ,{
+            "path" : "pages/index/main/esite/llkb",
+             "style" : {"titleNView" : false}
+        }
+        ,{
+            "path" : "pages/index/main/esite/qlkb",
+            "style" : {"titleNView" : false}
+        }
+        ,{
+            "path" : "pages/index/main/zsy/xnfx/xnfx",
+             "style" : {"titleNView" : false}
+        }
+        ,{
+            "path" : "pages/index/main/zsy/jt/jt2",
+            "style" : {"titleNView" : false}
+        }
+        ,{
+            "path" : "pages/index/main/zsy/sbkb/sbkb",
+             "style" : {"titleNView" : false}
+        }
+        ,{
+            "path" : "pages/index/main/zsy/jt-one/jt-one",
+            "style" : {"titleNView" : false}
+        }
+        ,{
+            "path" : "pages/index/main/fhzl/cbkb",
+             "style" : {"titleNView" : false}
+        }
+        ,{
+            "path" : "pages/index/main/video-kb/video-kb",
+            "style" :                                                
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false,
+				"titleNView" : false
+            }
+            
+        }
+        ,{
+            "path" : "pages/index/main/shunchen/sczk/sczk",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false,
+				"titleNView" : false
+            }
+            
+        }
+        ,{
+            "path" : "pages/index/main/shunchen/sczk/pzzk",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false,
+                "titleNView" : false
+            }
+            
+        }
+        ,{
+            "path" : "pages/index/main/shunchen/sczk/wczk",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false,
+                "titleNView" : false
+            }
+            
+        }
+        ,{
+            "path" : "pages/index/main/shunchen/sczk/blEcharts",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false,
+                "titleNView" : false
+            }
+            
+        }
+        ,{
+            "path" : "pages/index/main/zsy/xnfx/ab-tjyy",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false,
+                "titleNView": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/index/main/zsy/sbkb/ab-sbkb",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false,
+                "titleNView": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/index/main/zsy/jt-one/animate-one",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false,
+                "titleNView": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/index/main/zsy/xlc-kanban/all-kb",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false,
+                "titleNView": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/index/main/dataV-DEMO/electronic-file",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false,
+                "titleNView": false
+            }
+            
+        }
+		,{
+		    "path" : "pages/index/main/dataV-DEMO-1280/electronic-file",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "",
+		        "enablePullDownRefresh": false,
+		        "titleNView": false
+		    }
+		    
+		}
+        ,{
+            "path" : "pages/index/main/ak/xskb",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false,
+                "titleNView": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/index/main/ak/llxx",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false,
+                "titleNView": false
+            }
+            
+        }
+
+		,{
+		    "path" : "pages/cjkb/cjkb-cd",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "",
+		        "enablePullDownRefresh": false,
+		        "titleNView": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/cjkb/cjjdkb-cd",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "",
+		        "enablePullDownRefresh": false,
+		        "titleNView": false
+		    }
+		    
+		}
+		,{
+			"path" : "pages/index/main/zsy/sbkb/ab-nozs",
+			"style" :                                                                                    
+			{
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false,
+				"titleNView": false
+			}
+			
+		}
+		
+		,{
+			"path" : "pages/index/main/zsy/sbkb/sy-nozs",
+			"style" :                                                                                    
+			{
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false,
+				"titleNView": false
+			}
+			
+		}
+		
+		,{
+			"path" : "pages/index/main/zsy/sbkb/sy-nozs-a",
+			"style" :                                                                                    
+			{
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false,
+				"titleNView": false
+			}
+			
+		}
+
+        ,{
+            "path" : "pages/index/main/ak/cjkb",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false,
+                "titleNView": false
+            }
+            
+        }
+		,{
+		    "path" : "pages/index/main/cd/cjkb",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "",
+		        "enablePullDownRefresh": false,
+		        "titleNView": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/index/main/cd/cjcgkb",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "",
+		        "enablePullDownRefresh": false,
+		        "titleNView": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/index/main/jiesk/cjkb-js",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "",
+		        "enablePullDownRefresh": false,
+		        "titleNView": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/index/main/jiesk/nozs-js",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "",
+		        "enablePullDownRefresh": false,
+		        "titleNView": false
+		    }
+		    
+		}
+        
+        ,{
+            "path" : "pages/index/main/ak/cjrsczk",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false,
+                "titleNView": false
+            }
+            
+        }
+
+    ],
+	"globalStyle": {
+		"backgroundColor": "#FFFFFF"
+	}
+}
